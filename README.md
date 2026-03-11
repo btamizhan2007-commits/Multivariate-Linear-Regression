@@ -5,6 +5,7 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
+```
 step 1:
 Start
 step 2:
@@ -23,7 +24,7 @@ step 8:
 Display the final answer to the user.
 step 9:
 Stop
-
+```
 ## Program:
 ```
 import matplotlib.pyplot as plt
